@@ -39,13 +39,15 @@
 
 ## Setup
 The following python libraries are needed for this project:
--streamlit : To install and learn more about streamlit click [here](https://docs.streamlit.io/en/stable/installation.html)
--pandas : To install and learn more about pandas click [here]()
--yfinance : To install and learn more about Yahoo Finance click [here]()
+-streamlit : To install and learn more about streamlit click [here](https://docs.streamlit.io/en/stable/installation.html).
+-pandas : To install and learn more about pandas click [here](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html).
+-yfinance : To install and learn more about Yahoo Finance click [here](https://python-yahoofinance.readthedocs.io/en/latest/api.html).
 
 ## Usage
 Make sure all the above mentioned libraries are installed. After that, go to the project directory and type the below command to run the code.
+
 `streamlit run main.py`
+
 The app will open in your default browser. 
 
 
