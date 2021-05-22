@@ -12,7 +12,6 @@
 * [Acknowledgements](#acknowledgements)
 
 ## General Information and Features
-- 
 - Can select one of the top 50 stocks in the USA. (BRK.A stock price chart is not functional)
 - Can show a line graph for the closing price of the stock of upto the past 50 years till now or from the date you want to current time.
 - Can display a bar chart of the volume of the stock 
@@ -22,9 +21,6 @@
 ## Technologies Used
 - Python, version 3.9.1
 - Streamlit, version 0.81.1
-
-
-## Features
 
 
 ## Screenshots
