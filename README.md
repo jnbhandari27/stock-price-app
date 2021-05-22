@@ -2,9 +2,8 @@
 > A Stock Price charting and returns calculator app. 
 
 ## Table of Contents
-* [General Info](#general-information)
+* [General Information and Features](#general-information-and-features)
 * [Technologies Used](#technologies-used)
-* [Features](#features)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Usage](#usage)
@@ -12,12 +11,12 @@
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
 
-## General Information
+## General Information and Features
 - 
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- Can select one of the top 50 stocks in the USA. (BRK.A stock price chart is not functional)
+- Can show a line graph for the closing price of the stock of upto the past 50 years till now or from the date you want to current time.
+- Can display a bar chart of the volume of the stock 
+- Can calculate your returns if you would had invested in that stock on a previous date.
 
 
 ## Technologies Used
@@ -26,10 +25,6 @@
 
 
 ## Features
-- Can select one of the top 50 stocks in the USA. (BRK.A stock price chart is not functional)
-- Can show a line graph for the closing price of the stock of upto the past 50 years till now or from the date you want to current time.
-- Can display a bar chart of the volume of the stock 
-- Can calculate your returns if you would had invested in that stock on a previous date.
 
 
 ## Screenshots
